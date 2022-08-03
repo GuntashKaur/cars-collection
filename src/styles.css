@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkorchid;
+  font-style: italic;
+}
+
+h2 {
+  color: darkslategrey;
+}
+
+button {
+  margin: 10px;
+  height: 40px;
+  color: darkslategray;
+  font-size: 15px;
+  background-color: white;
+  border: 2px solid darkslategray;
+}
+
+button:hover {
+  background-color: darkslategray;
+  color: white;
+  border: none;
+}
+
+li {
+  list-style: none;
+  border: 2px solid darkorchid;
+  border-radius: 10px;
+  width: 400px;
+  margin: auto;
+  display: block;
+  margin-top: 20px;
+  height: 40px;
+  text-align: center;
+  padding-top: 20px;
+  color: darkorchid;
+}
+
+li:hover {
+  background-color: darkorchid;
+  color: white;
+}
